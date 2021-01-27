@@ -62,9 +62,7 @@ Submissions are evaluated by computing macro F1, with the mean taken over the 19
 
 It is otherwise essentially identical to the OpenImages Instance Segmentation Challenge evaluation. 
 
-The OpenImages version of the metric is described in detail here. 
-
-See also this tutorial on running the evaluation in Python, with the only difference being the use of F1 rather than average precision.
+The OpenImages version of the metric is described in detail here. See also this tutorial on running the evaluation in Python, with the only difference being the use of F1 rather than average precision.
 
 Segmentation is calculated using IoU with a threshold of 0.6.
 
@@ -135,6 +133,33 @@ An example python function to encode an instance segmentation mask would be:
 
 (This code is available as a gist here.)
 
+
+-------
+
+## Potentially useful Github links
+
+On the official Cellprofiling Github we have some pieces of code that could, potentially, be useful for this competition.
+
+- 1. The code for the solutions from the previous challenge that was later published in Nature Methods. You will also be able to get the trained weights from the Bestfitting's winning solution there.
+
+- 2. Code for segmenting individual cells and nuclei in the HPA images.
+
+### CellProfiling/HPA-competition-solutions
+https://github.com/CellProfiling/HPA-competition-solutions
+
+### CellProfiling/HPA-Cell-Segmentation
+https://github.com/CellProfiling/HPA-Cell-Segmentation
+
+### Nature Methods:
+https://www.nature.com/articles/s41592-019-0658-6
+
+
+------
+
+## nature method
+
+### Analysis of the Human Protein Atlas Image Classification competition
+https://www.nature.com/articles/s41592-019-0658-6
 
 -------
 
