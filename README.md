@@ -64,6 +64,13 @@ The labels are represented as integers that map to the following:
 
 ## Cell Structure
 
+## The Cell Atlas
+https://www.proteinatlas.org/humanproteome/cell
+
+
+
+
+
 ### Biology: Cell Structure I Nucleus Medical Media
 https://www.youtube.com/watch?v=URUJD5NEXC8
 
