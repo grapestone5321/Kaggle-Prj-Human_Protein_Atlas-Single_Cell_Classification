@@ -111,4 +111,283 @@ https://www.nature.com/articles/s41592-019-0658-6
 
 the the results of this competition will also likely be published in Nature Methods.
 
+-------
+
+## References
+
+### 1.
+Ouyang, W. & Zimmer, C. The imaging tsunami: computational opportunities and challenges. Curr. Opin. Syst. Biol. 4, 105–113 (2017).
+
+
+
+### 2.
+Uhlén, M. et al. Tissue-based map of the human proteome. Science 347, 1260419 (2015).
+
+
+
+### 3.
+Thul, P. J. et al. A subcellular map of the human proteome. Science 356, eaal3321 (2017).
+
+
+### 4.
+Mahdessian, D. et al. Spatiotemporal dissection of the cell cycle regulated human proteome. 
+
+Preprint at bioRxiv https://doi.org/10.1101/543231 (2019).
+
+### 5.
+Sullivan, D. P. et al. Deep learning is combined with massive-scale citizen science to improve large-scale image classification. Nat. Biotechnol. 36, 820–828 (2018).
+
+
+ 
+
+### 6.
+Tsoumakas, G. & Katakis, I. Multi-label classification: an overview. Int. J. Data Warehous. Min. 3, 1–13 (2009).
+
+ 
+
+### 7.
+LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015).
+
+ 
+
+### 8.
+LeCun, Y., Bottou, L., Bengio, Y. & Haffner, P. Gradient-based learning applied to document recognition. IEEE, 86, 2278–2324 (1998).
+
+ 
+
+### 9.
+Silver, D. et al. Mastering the game of Go without human knowledge. Nature 550, 354–359 (2017).
+
+ 
+
+### 10.
+Bojarski, M. et al. End to end learning for self-driving cars. 
+
+Preprint at https://arxiv.org/abs/1604.07316 (2016).
+
+### 11.
+Simonyan, K. & Zisserman, A. Very deep convolutional networks for large-scale image recognition. 
+
+Preprint at https://arxiv.org/abs/1409.1556 (2014).
+
+### 12.
+Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J. & Wojna, Z. Rethinking the inception architecture for computer vision. in IEEE Conference on Computer Vision and Pattern Recognition 2818–2826 (IEEE, 2016).
+
+### 13.
+Ronneberger, O., Fischer, P. & Brox, T. U-net: Convolutional networks for biomedical image segmentation. in Medical Image Computing and Computer-Assisted Intervention—MICCAI 2015 (eds Navab, N. et al.) 234–241 (Springer, 2015).
+
+### 14.
+Hestness, J. et al. Deep learning scaling is predictable, empirically. 
+
+Preprint at https://arxiv.org/abs/1712.00409 (2017).
+
+## 15.
+Moen, E. et al. Deep learning for cellular image analysis. 
+
+Nat. Methods https://doi.org/10.1038/s41592-019-0403-1 (2019).
+
+### 16.
+Godinez, W. J., Hossain, I., Lazic, S. E., Davies, J. W. & Zhang, X. A multi-scale convolutional neural network for phenotyping high-content cellular images. Bioinforma. Oxf. Engl. 33, 2010–2019 (2017).
+
+ 
+
+### 17.
+Hofmarcher, M., Rumetshofer, E., Clevert, D.-A., Hochreiter, S. & Klambauer, G. accurate prediction of biological assays with high-throughput microscopy images and convolutional networks. J. Chem. Inf. Model. 59, 1163–1171 (2019).
+
+
+### 18.
+Kraus, O. Z., Ba, J. L. & Frey, B. J. Classifying and segmenting microscopy images with deep multiple instance learning. Bioinformatics 32, i52–i59 (2016).
+
+### 19.
+He, K., Zhang, X., Ren, S. & Sun, J. Deep residual learning for image recognition. in IEEE Conference on Computer Vision and Pattern Recognition 770–778 (IEEE, 2016).
+
+### 20.
+Huang, G., Liu, Z., Van Der Maaten, L. & Weinberger, K. Q. Densely connected convolutional networks. in IEEE Conference on Computer Vision and Pattern Recognition 4700–4708 (IEEE, 2017).
+
+### 21.
+Srivastava, N., Hinton, G., Krizhevsky, A., Sutskever, I. & Salakhutdinov, R. Dropout: a simple way to prevent neural networks from overfitting. J. Mach. Learn. Res. 15, 1929–1958 (2014).
+
+ 
+
+## 22.
+Ioffe, S. & Szegedy, C. Batch normalization: accelerating deep network training by reducing internal covariate shift. 
+
+Preprint at https://arxiv.org/abs/1502.03167 (2015).
+
+### 23.
+Lin, T.Y., Goyal, P., Girshick, R., He, K. & Dollár, P. Focal loss for dense object detection. in IEEE International Conference on Computer Vision 2980–2988 (IEEE, 2017).
+
+### 24.
+Smith, L. N. Cyclical learning rates for training neural networks. in IEEE Winter Conference on Applications of Computer Vision 464–472 (IEEE, 2017).
+
+### 25.
+Cubuk, E. D., Zoph, B., Mane, D., Vasudevan, V. & Le, Q. V. AutoAugment: learning augmentation policies from data. 
+
+Preprint at https://arxiv.org/abs/1805.09501 (2018).
+
+### 26.
+Paszke, A. et al. Automatic differentiation in PyTorch. in NIPS 2017 Autodiff Workshop (2017).
+
+### 27.
+Abadi, M. et al. TensorFlow: large-scale machine learning on heterogeneous distributed systems. 
+
+Preprint at https://arxiv.org/abs/1603.04467 (2016).
+
+### 28.
+Hutter, F., Kotthoff, L. Vanschoren, J. Automated Machine Learning-Methods, Systems, Challenges (Springer International Publishing, 2019).
+
+### 29.
+Falkner, S., Klein, A. & Hutter, F. BOHB: robust and efficient hyperparameter optimization at scale. in 35th International Conference on Machine Learning 1436–1445 (ICML, 2018).
+
+### 30.
+Vanschoren, J. Meta-learning: a survey. 
+
+Preprint at https://arxiv.org/abs/1810.03548 (2018).
+
+### 31.
+Elsken, T., Metzen, J. H. & Hutter, F. Neural architecture search: a survey. J. Mach. Learn. Res. 20, 1–21 (2019).
+
+
+### 32.
+Russakovsky, O. et al. ImageNet large scale visual recognition challenge. Int. J. Comput. Vis. 115, 211–252 (2015).
+
+
+### 33.
+Deng, J. et al. ImageNet: a large-scale hierarchical image database. in IEEE Conference on Computer Vision and Pattern Recognition 248–255 (IEEE, 2009).
+
+### 34.
+Foggia, P., Percannella, G., Soda, P. & Vento, M. Benchmarking HEp-2 cells classification methods. IEEE Trans. Med. Imaging 32, 1878–1889 (2013).
+
+ 
+
+### 35.
+Ulman, V. et al. An objective comparison of cell-tracking algorithms. Nat. Methods 14, 1141–1152 (2017).
+
+
+ 
+
+### 36.
+Johnson, J. M. & Khoshgoftaar, T. M. Survey on deep learning with class imbalance. J. Big Data 6, 27 (2019).
+ 
+
+### 37.
+Sechidis, K., Tsoumakas, G. & Vlahavas, I. On the stratification of multi-label data. in Machine Learning and Knowledge Discovery in Databases Vol. 6913 (eds Gunopulos, D. et al.) 145–158 (Springer International Publishing, 2011).
+
+### 38.
+Berman, M., Rannen Triki, A. & Blaschko, M. B. The Lovász-Softmax loss: a tractable surrogate for the optimization of the intersection-over-union measure in neural networks. in IEEE Conference on Computer Vision and Pattern Recognition 4413–4421 (IEEE, 2018).
+
+### 39.
+Yosinski, J., Clune, J., Bengio, Y. & Lipson, H. How transferable are features in deep neural networks? in Advances in Neural Information Processing Systems Vol. 27 (eds Ghahramani, Z. et al.) 3320–3328 (Curran Associates, Inc., 2014).
+
+### 40.
+Selvaraju, R. R. et al. Grad-cam: visual explanations from deep networks via gradient-based localization. in IEEE International Conference on Computer Vision 618–626 (IEEE, 2017).
+
+### 41.
+Deng, J., Guo, J., Xue, N. & Zafeiriou, S., Arcface: additive angular margin loss for deep face recognition. in IEEE Conference on Computer Vision and Pattern Recognition 4690–4699 (IEEE, 2019).
+
+### 42.
+McInnes, L., Healy, J. & Melville, J. UMAP: uniform manifold approximation and projection for dimension reduction.
+
+Preprint at https://arxiv.org/abs/1802.03426 (2018).
+
+### 43.
+Ouyang, W., Mueller, F., Hjelmare, M., Lundberg, E. & Zimmer, C. ImJoy: an open-source computational platform for the deep learning era. 
+
+https://doi.org/10.1038/s41592-019-0627-0 (2019).
+
+## 44.
+Belthangady, C. & Royer, L. A. Applications, promises, and pitfalls of deep learning for fluorescence image reconstruction. Nat. Methods 
+
+https://doi.org/10.1038/s41592-019-0458-z (2019).
+
+### 45.
+Zech, J. R. et al. Variable generalization performance of a deep learning model to detect pneumonia in chest radiographs: a cross-sectional study. PLoS Med. 15, e1002683 (2018).
+
+ 
+
+### 46.
+Riley, P. Three pitfalls to avoid in machine learning. Nature 572, 27–29 (2019).
+
+
+### 47.
+Oei, R. W. et al. Convolutional neural network for cell classification using microscope images of intracellular actin networks. PLoS ONE 14, e0213626 (2019).
+ 
+
+### 48.
+Kornblith, S., Shlens, J. & Le, Q. V. Do better imagenet models transfer better? in IEEE Conference on Computer Vision and Pattern Recognition 2661–2671 (IEEE, 2019).
+
+### 49.
+Stadler, C., Skogs, M., Brismar, H., Uhlén, M. & Lundberg, E. A single fixation protocol for proteome-wide immunofluorescence localization studies. J. Proteom. 73, 1067–1078 (2010).
+ 
+
+50.
+Van Der Walt, S. et al. scikit-image: image processing in Python. PeerJ 2, e453 (2014).
+
+
 ---------
+
+## Papers
+
+### Bojarski, M. et al. End to end learning for self-driving cars. 
+
+Preprint at https://arxiv.org/abs/1604.07316 (2016).
+
+### Simonyan, K. & Zisserman, A. Very deep convolutional networks for large-scale image recognition. 
+
+Preprint at https://arxiv.org/abs/1409.1556 (2014).
+
+
+
+### Hestness, J. et al. Deep learning scaling is predictable, empirically. 
+
+Preprint at https://arxiv.org/abs/1712.00409 (2017).
+
+
+## Ioffe, S. & Szegedy, C. Batch normalization: accelerating deep network training by reducing internal covariate shift. 
+
+Preprint at https://arxiv.org/abs/1502.03167 (2015).
+
+
+
+### Cubuk, E. D., Zoph, B., Mane, D., Vasudevan, V. & Le, Q. V. AutoAugment: learning augmentation policies from data. 
+
+Preprint at https://arxiv.org/abs/1805.09501 (2018).
+
+### Abadi, M. et al. TensorFlow: large-scale machine learning on heterogeneous distributed systems. 
+
+Preprint at https://arxiv.org/abs/1603.04467 (2016).
+
+
+### Vanschoren, J. Meta-learning: a survey. 
+
+Preprint at https://arxiv.org/abs/1810.03548 (2018).
+
+
+### McInnes, L., Healy, J. & Melville, J. UMAP: uniform manifold approximation and projection for dimension reduction.
+
+Preprint at https://arxiv.org/abs/1802.03426 (2018).
+
+
+
+
+## Website
+
+### Mahdessian, D. et al. Spatiotemporal dissection of the cell cycle regulated human proteome. 
+
+Preprint at bioRxiv https://doi.org/10.1101/543231 (2019).
+
+
+## Moen, E. et al. Deep learning for cellular image analysis. 
+
+Nat. Methods https://doi.org/10.1038/s41592-019-0403-1 (2019).
+
+
+### Ouyang, W., Mueller, F., Hjelmare, M., Lundberg, E. & Zimmer, C. ImJoy: an open-source computational platform for the deep learning era. 
+
+https://doi.org/10.1038/s41592-019-0627-0 (2019).
+
+## Belthangady, C. & Royer, L. A. Applications, promises, and pitfalls of deep learning for fluorescence image reconstruction. Nat. Methods 
+
+https://doi.org/10.1038/s41592-019-0458-z (2019).
+
+
