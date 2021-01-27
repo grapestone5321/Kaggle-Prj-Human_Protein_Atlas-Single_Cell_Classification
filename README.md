@@ -20,4 +20,21 @@ Segmentation is calculated using IoU with a threshold of 0.6.
 
 -------
 
+## Previous Human Protein Atlas Competition
 
+https://www.kaggle.com/c/human-protein-atlas-image-classification/overview
+
+
+
+
+### Human Protein Resnet50 training / Pytorch
+https://www.kaggle.com/vandalko/human-protein-resnet50-training-pytorch/notebook
+
+
+### Fastai v1 starter pack (Kernel edition) [LB 0.323]
+https://www.kaggle.com/hortonhearsafoo/fastai-v1-starter-pack-kernel-edition-lb-0-323
+
+
+
+
+---------
