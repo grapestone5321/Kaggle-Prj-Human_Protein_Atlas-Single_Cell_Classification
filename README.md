@@ -88,12 +88,19 @@ An example python function to encode an instance segmentation mask would be:
 
 -------
 
-## Previous Human Protein Atlas Competition
+# Previous Human Protein Atlas Competition
 
 https://www.kaggle.com/c/human-protein-atlas-image-classification/overview
 
 
+## Previous Human Protein Atlas Competition Nature Methods Paper
 
+### The results of the previous HPA competition were published in Nature Methods (Open Access):
+### the the results of this competition will also likely be published in Nature Methods.
+
+https://www.nature.com/articles/s41592-019-0658-6
+
+## notebook
 
 ### Human Protein Resnet50 training / Pytorch
 https://www.kaggle.com/vandalko/human-protein-resnet50-training-pytorch/notebook
@@ -102,19 +109,8 @@ https://www.kaggle.com/vandalko/human-protein-resnet50-training-pytorch/notebook
 ### Fastai v1 starter pack (Kernel edition) [LB 0.323]
 https://www.kaggle.com/hortonhearsafoo/fastai-v1-starter-pack-kernel-edition-lb-0-323
 
-
-## Previous Human Protein Atlas Competition Nature Methods Paper
-
-The results of the previous HPA competition were published in Nature Methods (Open Access):
-
-https://www.nature.com/articles/s41592-019-0658-6
-
-the the results of this competition will also likely be published in Nature Methods.
-
-
 ### GapNet-PL [LB 0.385]
 https://www.kaggle.com/rejpalcz/gapnet-pl-lb-0-385
-
 
 ### HPA-MODEL-256
 https://www.kaggle.com/omoekan09/hpa-model-256/notebook
@@ -357,7 +353,6 @@ https://doi.org/10.1038/s41592-019-0627-0 (2019).
 https://doi.org/10.1038/s41592-019-0458-z (2019).
 
 
-
 -------
 
 ## Paper-2
@@ -372,4 +367,6 @@ https://openreview.net/pdf?id=S1gBgnR9Y7
 
 ### DEEP-LEARNING BASED PHENOTYPE CLASSIFICATION in High Content cellular imaging ON INTEL® ARCHITECTURE
 https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/06/IntelAIDC18_Datta_Theatre_052418_final.pdf
+
+-------
 
