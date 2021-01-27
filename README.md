@@ -8,6 +8,54 @@ April 27, 2021 - Final submission deadline at 11:59 PM UTC
 
 -------
 
+## Task
+
+This is a weakly supervised multi-label classification problem and a code competition. 
+
+Given images of cells from our microscopes and labels of protein location assigned together for all cells in the image, Kagglers will develop models capable of segmenting and classifying each individual cell with precise labels. 
+
+If successful, you'll contribute to the revolution of single-cell biology!
+
+-------
+
+## What am I predicting?
+You are predicting protein organelle localization labels for each cell in the image. 
+
+Border cells are included when there is enough information to decide on the labels.
+
+There are in total 19 different labels present in the dataset (18 labels for specific locations, and label 18 for negative and unspecific signal). 
+
+The dataset is acquired in a highly standardized way using one imaging modality (confocal microscopy). 
+
+However, the dataset comprises 17 different cell types of highly different morphology, which affect the protein patterns of the different organelles. 
+
+All image samples are represented by four filters (stored as individual files), the protein of interest (green) plus three cellular landmarks: nucleus (blue), microtubules (red), endoplasmic reticulum (yellow). 
+
+The green filter should hence be used to predict the label, and the other filters are used as references. 
+
+The labels are represented as integers that map to the following:
+
+      0. Nucleoplasm
+      1. Nuclear membrane
+      2. Nucleoli
+      3. Nucleoli fibrillar center
+      4. Nuclear speckles
+      5. Nuclear bodies
+      6. Endoplasmic reticulum
+      7. Golgi apparatus
+      8. Intermediate filaments
+      9. Actin filaments 10. Microtubules
+      11. Mitotic spindle
+      12. Centrosome
+      13. Plasma membrane
+      14. Mitochondria
+      15. Aggresome
+      16. Cytosol
+      17. Vesicles and punctate cytosolic patterns
+      18. Negative
+
+-------
+
 ## Evaluation
 
 Submissions are evaluated by computing macro F1, with the mean taken over the 19 segmentable classes of the challenge. 
