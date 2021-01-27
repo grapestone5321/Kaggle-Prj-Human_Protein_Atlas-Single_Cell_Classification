@@ -111,6 +111,22 @@ https://www.nature.com/articles/s41592-019-0658-6
 
 the the results of this competition will also likely be published in Nature Methods.
 
+
+### GapNet-PL [LB 0.385]
+https://www.kaggle.com/rejpalcz/gapnet-pl-lb-0-385
+
+
+### HPA-MODEL-256
+https://www.kaggle.com/omoekan09/hpa-model-256/notebook
+
+
+-------
+
+## Blogs
+
+### Representation Learning
+http://www.moseslab.csb.utoronto.ca/alexlu/project/representation-learning/
+
 -------
 
 ## References
@@ -350,5 +366,10 @@ https://doi.org/10.1038/s41592-019-0458-z (2019).
 https://openreview.net/pdf?id=ryl5khRcKm
 
 
-END-TO-END LEARNING OF PHARMACOLOGICAL ASSAYS FROM HIGH-RESOLUTION MICROSCOPY IMAGES
+### END-TO-END LEARNING OF PHARMACOLOGICAL ASSAYS FROM HIGH-RESOLUTION MICROSCOPY IMAGES
 https://openreview.net/pdf?id=S1gBgnR9Y7
+
+
+### DEEP-LEARNING BASED PHENOTYPE CLASSIFICATION in High Content cellular imaging ON INTEL® ARCHITECTURE
+https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/06/IntelAIDC18_Datta_Theatre_052418_final.pdf
+
