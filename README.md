@@ -29,7 +29,13 @@ The dataset is acquired in a highly standardized way using one imaging modality 
 
 However, the dataset comprises 17 different cell types of highly different morphology, which affect the protein patterns of the different organelles. 
 
-All image samples are represented by four filters (stored as individual files), the protein of interest (green) plus three cellular landmarks: nucleus (blue), microtubules (red), endoplasmic reticulum (yellow). 
+All image samples are represented by four filters (stored as individual files), the protein of interest (green) plus three cellular landmarks: 
+
+- nucleus (blue), 
+
+- microtubules (red), 
+
+- endoplasmic reticulum (yellow). 
 
 The green filter should hence be used to predict the label, and the other filters are used as references. 
 
