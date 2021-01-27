@@ -35,6 +35,12 @@ https://www.kaggle.com/vandalko/human-protein-resnet50-training-pytorch/notebook
 https://www.kaggle.com/hortonhearsafoo/fastai-v1-starter-pack-kernel-edition-lb-0-323
 
 
+## Previous Human Protein Atlas Competition Nature Methods Paper
 
+The results of the previous HPA competition were published in Nature Methods (Open Access):
+
+https://www.nature.com/articles/s41592-019-0658-6
+
+the the results of this competition will also likely be published in Nature Methods.
 
 ---------
