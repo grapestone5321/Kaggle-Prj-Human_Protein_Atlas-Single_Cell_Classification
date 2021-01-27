@@ -62,7 +62,9 @@ Submissions are evaluated by computing macro F1, with the mean taken over the 19
 
 It is otherwise essentially identical to the OpenImages Instance Segmentation Challenge evaluation. 
 
-The OpenImages version of the metric is described in detail here. See also this tutorial on running the evaluation in Python, with the only difference being the use of F1 rather than average precision.
+The OpenImages version of the metric is described in detail here. 
+
+See also this tutorial on running the evaluation in Python, with the only difference being the use of F1 rather than average precision.
 
 Segmentation is calculated using IoU with a threshold of 0.6.
 
