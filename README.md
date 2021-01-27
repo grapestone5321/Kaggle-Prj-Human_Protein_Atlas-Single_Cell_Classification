@@ -64,12 +64,26 @@ The labels are represented as integers that map to the following:
 
 ## Cell Structure
 
-## The Cell Atlas
+### The Cell Atlas
 https://www.proteinatlas.org/humanproteome/cell
 
 
+## The Human Cell
+https://www.youtube.com/watch?v=P4gz6DrZOOI&feature=emb_logo
+
+Discover a world of cellular information. A movie that takes you through the human cell. 
+
+Created by researchers, for researchers. Explore the human cell further at proteinatlas.org
 
 
+------
+
+## nature method
+
+### Analysis of the Human Protein Atlas Image Classification competition
+https://www.nature.com/articles/s41592-019-0658-6
+
+-------
 
 ### Biology: Cell Structure I Nucleus Medical Media
 https://www.youtube.com/watch?v=URUJD5NEXC8
@@ -208,13 +222,6 @@ https://github.com/CellProfiling/HPA-Cell-Segmentation
 ### Nature Methods:
 https://www.nature.com/articles/s41592-019-0658-6
 
-
-------
-
-## nature method
-
-### Analysis of the Human Protein Atlas Image Classification competition
-https://www.nature.com/articles/s41592-019-0658-6
 
 -------
 
