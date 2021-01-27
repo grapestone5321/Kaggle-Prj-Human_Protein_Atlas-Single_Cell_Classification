@@ -60,6 +60,48 @@ The labels are represented as integers that map to the following:
       17. Vesicles and punctate cytosolic patterns
       18. Negative
 
+--------
+
+## Cell Structure
+
+### Biology: Cell Structure I Nucleus Medical Media
+https://www.youtube.com/watch?v=URUJD5NEXC8
+
+This animation by Nucleus shows you the function of plant and animal cells for middle school and high school biology, including organelles like: 
+
+      the nucleus, 
+      nucleolus, 
+      DNA (chromosomes), 
+      ribosomes, 
+      mitochondria, etc. 
+
+Also included are: 
+
+      ATP molecules, 
+      cytoskeleton, 
+      cytoplasm, 
+      microtubules, 
+      proteins, 
+      chloroplasts, 
+      chlorophyll, 
+      cell walls, 
+      cell membrane, 
+      cilia, 
+      flagellae, etc.
+
+Watch another version of this video, narrated by biology teacher Joanne Jezequel here: https://youtu.be/cbiyKH9uPUw​
+
+
+Watch other Nucleus Biology videos:
+
+- Controlled Experiments: https://youtu.be/D3ZB2RTylR4​
+
+- Independent vs. Dependent Variables: https://youtu.be/nqj0rJEf3Ew​
+
+- Active Transport: https://youtu.be/ufCiGz75DAk
+
+
+
 -------
 
 ## Evaluation
