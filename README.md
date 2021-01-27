@@ -295,7 +295,7 @@ Ouyang, W., Mueller, F., Hjelmare, M., Lundberg, E. & Zimmer, C. ImJoy: an open-
 
 https://doi.org/10.1038/s41592-019-0627-0 (2019).
 
-## 44.
+### 44.
 Belthangady, C. & Royer, L. A. Applications, promises, and pitfalls of deep learning for fluorescence image reconstruction. Nat. Methods 
 
 https://doi.org/10.1038/s41592-019-0458-z (2019).
@@ -320,7 +320,7 @@ Kornblith, S., Shlens, J. & Le, Q. V. Do better imagenet models transfer better?
 Stadler, C., Skogs, M., Brismar, H., Uhlén, M. & Lundberg, E. A single fixation protocol for proteome-wide immunofluorescence localization studies. J. Proteom. 73, 1067–1078 (2010).
  
 
-50.
+### 50.
 Van Der Walt, S. et al. scikit-image: image processing in Python. PeerJ 2, e453 (2014).
 
 
@@ -343,7 +343,7 @@ Preprint at https://arxiv.org/abs/1409.1556 (2014).
 Preprint at https://arxiv.org/abs/1712.00409 (2017).
 
 
-## Ioffe, S. & Szegedy, C. Batch normalization: accelerating deep network training by reducing internal covariate shift. 
+### Ioffe, S. & Szegedy, C. Batch normalization: accelerating deep network training by reducing internal covariate shift. 
 
 Preprint at https://arxiv.org/abs/1502.03167 (2015).
 
@@ -367,7 +367,7 @@ Preprint at https://arxiv.org/abs/1810.03548 (2018).
 
 Preprint at https://arxiv.org/abs/1802.03426 (2018).
 
-
+-------
 
 
 ## Website
@@ -389,5 +389,9 @@ https://doi.org/10.1038/s41592-019-0627-0 (2019).
 ## Belthangady, C. & Royer, L. A. Applications, promises, and pitfalls of deep learning for fluorescence image reconstruction. Nat. Methods 
 
 https://doi.org/10.1038/s41592-019-0458-z (2019).
+
+
+
+-------
 
 
