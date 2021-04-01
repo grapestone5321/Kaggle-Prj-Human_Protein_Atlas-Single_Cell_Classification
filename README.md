@@ -4,7 +4,7 @@
 
 ## Submission deadline
 
-April 27, 2021 - Final submission deadline at 11:59 PM UTC
+May 11, 2021 - Final submission deadline at 11:59 PM UTC
 
 -------
 
