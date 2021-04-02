@@ -510,7 +510,7 @@ https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/06/IntelAI
 ## Progress
 
 
-### Public Best LB Score: 
+### Public Best LB Score: 0.362
 
 ### Private Score: 
 
