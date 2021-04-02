@@ -518,5 +518,11 @@ https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/06/IntelAI
 
 -------
 
+## fastai cell tile prototyping [training]
+https://www.kaggle.com/dragonzhang/fastai-cell-tile-prototyping-training
+
+
+
+-------
 
 
