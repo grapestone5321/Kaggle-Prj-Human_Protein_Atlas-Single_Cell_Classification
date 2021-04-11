@@ -62,6 +62,15 @@ The labels are represented as integers that map to the following:
 
 --------
 
+## Human Protein Atlas Image Classification
+### Classify subcellular protein patterns in human cells
+https://www.kaggle.com/c/human-protein-atlas-image-classification/
+
+- Human Protein Atlas: 2,160 teams: 2 years ago
+
+-------
+
+
 ## Cell Structure
 
 ### The Cell Atlas
