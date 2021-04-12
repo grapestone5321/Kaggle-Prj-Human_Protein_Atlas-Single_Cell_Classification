@@ -553,4 +553,10 @@ https://www.kaggle.com/dragonzhang/fastai-cell-tile-prototyping-training
 
 -------
 
+## 0.354+efnb7 Classification weights 0.4 0.6
+https://www.kaggle.com/h053473666/0-354-efnb7-classification-weights-0-4-0-6
+
+
+
+-------
 
