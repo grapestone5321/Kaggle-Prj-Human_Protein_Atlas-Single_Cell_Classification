@@ -567,8 +567,13 @@ https://www.kaggle.com/h053473666/0-354-efnb7-classification-weights-0-4-0-6
 - 5    VISUALIZATION
 
 
+-------
 
 
+### efnb7 Classification model added to cellwise infer
+https://www.kaggle.com/aristotelisch/efnb7-classification-model-added-to-cellwise-infer
+
+      Public Score 
 
 -------
 
