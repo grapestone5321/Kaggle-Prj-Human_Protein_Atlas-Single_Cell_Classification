@@ -577,3 +577,10 @@ https://www.kaggle.com/aristotelisch/efnb7-classification-model-added-to-cellwis
 
 -------
 
+## cellwise infer + efnb7 classification
+https://www.kaggle.com/chienhsianghung/cellwise-infer-efnb7-classification
+
+      ver1: Public Score 0.431
+
+
+-------
