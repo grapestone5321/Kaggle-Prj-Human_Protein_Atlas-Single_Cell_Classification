@@ -582,5 +582,16 @@ https://www.kaggle.com/chienhsianghung/cellwise-infer-efnb7-classification
 
       ver1: Public Score 0.431
 
+### inference
+
+### Parameters
+
+      BATCH_SIZE = 16   LB 0.431  ver3
+      BATCH_SIZE = 20   LB 0.431  ver4    171 -> 
+
+
+
+-------
+
 
 -------
