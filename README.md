@@ -586,9 +586,12 @@ https://www.kaggle.com/chienhsianghung/cellwise-infer-efnb7-classification
 
 ### Parameters
 
-      BATCH_SIZE = 16   LB 0.431  ver3
-      BATCH_SIZE = 20   LB 0.431  ver4    171 -> 
-
+      BATCH_SIZE = 16   LB 0.430  ver4
+      BATCH_SIZE = 18   LB 0.430  ver6
+      BATCH_SIZE = 19   LB 0.430  ver7
+      BATCH_SIZE = 20   LB 0.431  ver3      --- best    --- default
+      BATCH_SIZE = 21   LB 0.431  ver8    178 -> 178
+      BATCH_SIZE = 24   LB 0.429  ver5
 
 
 -------
