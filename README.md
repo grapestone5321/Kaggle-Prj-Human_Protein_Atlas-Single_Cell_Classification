@@ -538,9 +538,9 @@ https://simplecore.intel.com/nervana/wp-content/uploads/sites/53/2018/06/IntelAI
 ## Progress
 
 
-### Public Best LB Score: 0.362
+### Public Best LB Score: 0.43249
 
-### Private Score: 
+### Private Score: 0.00000 
 
 
 
@@ -597,4 +597,4 @@ https://www.kaggle.com/chienhsianghung/cellwise-infer-efnb7-classification
 -------
 
 
--------
+
